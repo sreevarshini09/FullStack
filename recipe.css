@@ -1,0 +1,22 @@
+body{
+    background-color: antiquewhite;
+}
+.b{
+    background-color: white;
+    padding: 5px;
+}
+.c{
+    background-color: white;
+    padding: 5px;
+}
+.a{
+    background-color: white;
+    padding: 10px;
+}
+h2{
+    background-color: rgb(10, 169, 169);
+    text-align: center;
+    color: white;
+    padding: 10px;
+    
+}
