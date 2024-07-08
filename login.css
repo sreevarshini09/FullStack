@@ -1,0 +1,13 @@
+form{
+    border: 10px solid rgb(204, 10, 238);
+    border-width: 10px;
+    text-align: center;
+    padding: auto;
+}
+.image{
+    align-items: center;
+}
+button{
+    padding: 14px 20px;
+    width: 25%;
+}
